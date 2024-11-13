@@ -5,7 +5,7 @@
 - Univerity of Bucharest - Faculty of Mathematics and Computer Science
 - Second-year student
 
-## Working with
+## Learning and working with
 
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
